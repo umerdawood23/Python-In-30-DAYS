@@ -29,4 +29,41 @@ This repository will contain **daily problem-solving exercises, mini-projects**,
 ---
 
 ## 📁 Folder Structure
+30-days-python-challenge/
+├── Day_01/
+│ └── basic_exercises.py
+├── Day_02/
+│ └── loops_and_conditions.py
+...
+├── Day_30/
+│ └── final_project.py
+
+---
+
+## 🛠 Requirements
+
+- Python 3.8 or above  
+- IDE/Text Editor (e.g., VSCode, PyCharm)  
+- Git (for cloning or contributing)
+
+---
+
+## 🙌 How You Can Use This
+
+- 📘 Learn Python step by step  
+- 🎯 Practice problem-solving daily  
+- 🧪 Build your own small projects along the way  
+- 🤝 Fork & contribute or use as a base for your own challenge
+
+---
+
+## 🔥 Let's Connect
+
+I'm sharing this challenge publicly to stay accountable and help others learn too.  
+Follow along, contribute, or just give a ⭐️ if you find it helpful!
+
+---
+
+**Made with focus & dedication by [Umer Dawood](https://github.com/your-username)**  
+*“Consistency beats talent – especially when talent doesn’t work consistently.”*
 
